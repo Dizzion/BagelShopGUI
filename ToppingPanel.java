@@ -19,7 +19,7 @@ public class ToppingPanel extends JPanel
     private JCheckBox creamCheese;      // Cream cheese
     private JCheckBox butter;           // Butter
     private JCheckBox peachJelly;       // Peach jelly
-    private JCheckBox blueberryJam;      // Blueberry jam
+    private JCheckBox blueberryJam;     // Blueberry jam
 
     /**
      * Constructor
